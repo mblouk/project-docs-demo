@@ -1,3 +1,3 @@
 # Get started
 
-Write here some usefull information
+Write here some usefull information.
